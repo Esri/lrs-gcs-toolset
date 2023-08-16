@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20230411</CreaDate>
+		<CreaTime>14123300</CreaTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<SyncOnce>TRUE</SyncOnce>
+		<ModDate>20230411</ModDate>
+		<ModTime>14202600</ModTime>
+		<scaleRange>
+			<minScale>150000000</minScale>
+			<maxScale>5000</maxScale>
+		</scaleRange>
+		<ArcGISProfile>ItemDescription</ArcGISProfile>
+	</Esri>
+	<tool name="IdentifySparseVertices" displayname="Identify Sparse Vertices" toolboxalias="LRSGCSToolset" xmlns="">
+		<arcToolboxHelpPath>c:\arcgis\Resources\Help\gp</arcToolboxHelpPath>
+		<summary>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;&lt;SPAN&gt;This toolbox contains custom scripts designed to help calculate potential GCS issues with existing Location Referencing data.&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</summary>
+		<parameters>
+			<param name="in_features" displayname="Input Feature Class" type="Required" direction="Input" datatype="Feature Class" expression="in_features"/>
+			<param name="out_path" displayname="Output Path" type="Required" direction="Input" datatype="Workspace" expression="out_path"/>
+			<param name="out_feature_name" displayname="Output Feature Name" type="Required" direction="Input" datatype="String" expression="out_feature_name"/>
+		</parameters>
+	</tool>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>Identify Sparse Vertices</resTitle>
+		</idCitation>
+		<searchKeys>
+			<keyword>LRS</keyword>
+			<keyword>GCS</keyword>
+		</searchKeys>
+	</dataIdInfo>
+	<distInfo>
+		<distributor>
+			<distorFormat>
+				<formatName>ArcToolbox Tool</formatName>
+			</distorFormat>
+		</distributor>
+	</distInfo>
+	<mdHrLv>
+		<ScopeCd value="005"/>
+	</mdHrLv>
+	<mdDateSt Sync="TRUE">20230411</mdDateSt>
+</metadata>
