@@ -17,7 +17,7 @@ This repository hosts the LRS GCS Toolset for ArcGIS Pro. The LRS GCS Toolset co
 
 ## Requirements
 
-- ArcGIS Pro licensed with the Location Referencing extension
+- ArcGIS Pro standard license
 
 ## Resources
 
