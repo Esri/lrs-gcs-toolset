@@ -1,6 +1,6 @@
 # LRS GCS Toolset
 
-This repository hosts the LRS GCS Toolset for ArcGIS Pro. The LRS GCS Toolset contains Python tools that can assist you in validating your data ArcGIS Pro.
+This repository hosts the LRS GCS Toolset for ArcGIS Pro. The LRS GCS Toolset contains Python tools that can assist you in validating GCS data ArcGIS Pro.
 
 ## Features
 
@@ -22,6 +22,7 @@ This repository hosts the LRS GCS Toolset for ArcGIS Pro. The LRS GCS Toolset co
 ## Resources
 
 - [Roads and Highways product documentation](https://pro.arcgis.com/en/pro-app/latest/help/production/roads-highways/)
+- [Help doc: Identify Sparse Vertices in GCS Data](IdentifySparseVerticesinGCS Data.pdf?raw=1) Download to view full contents
 
 ## Issues
 
